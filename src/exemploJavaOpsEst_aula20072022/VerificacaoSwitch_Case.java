@@ -2,6 +2,8 @@ package exemploJavaOpsEst_aula20072022;
 
 import java.util.Scanner;
 
+// identificador de meses do ano pelo número com aplicação do comando "switch/case".
+
 public class VerificacaoSwitch_Case {
 
 	public static void main(String[] args) {

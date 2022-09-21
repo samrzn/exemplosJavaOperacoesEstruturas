@@ -2,6 +2,8 @@ package exemploJavaOpsEst_aula20072022;
 
 import java.util.Scanner;
 
+// verificador de times por estado com utilização do comando "switch/case".
+
 public class SwitchCase_Exemplo2 {
 
 	public static void main(String[] args) {
