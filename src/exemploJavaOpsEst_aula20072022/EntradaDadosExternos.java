@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class EntradaDadosExternos {
 
 	public static void main(String[] args) throws IOException {
-		File arq = new File("C:\\Users\\Remakker\\Documents\\Repositórios\\exemplosJava - a fazer"
+		File arq = new File("C:\\Users\\Remakker\\Documents\\Repositórios\\exemplosJava"
 				+ "\\exemplosJavaOperadoresEstruturas\\valoresExemplo.txt");
 		FileInputStream arqIn = new FileInputStream(arq);
 		Scanner entrada = new Scanner(arqIn);
