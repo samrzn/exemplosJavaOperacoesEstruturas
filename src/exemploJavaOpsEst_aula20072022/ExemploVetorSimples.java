@@ -15,4 +15,4 @@ public class ExemploVetorSimples {
 			System.out.println(vetor1[i] + " x 11 = " + vetor2[i]);
 		}
 	}
-}
+} 

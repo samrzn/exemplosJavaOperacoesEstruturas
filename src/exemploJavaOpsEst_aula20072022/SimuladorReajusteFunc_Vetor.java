@@ -26,4 +26,4 @@ public class SimuladorReajusteFunc_Vetor {
 		}
 		teclado.close();
 	}
-}
+} 

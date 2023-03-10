@@ -20,4 +20,4 @@ public class EstruturaDoWhileBasico {
 		System.out.println("A divisão de " + v1 + " por " + v2 + " = " + resultado);
 		teclado.close();
 	}
-}
+} 

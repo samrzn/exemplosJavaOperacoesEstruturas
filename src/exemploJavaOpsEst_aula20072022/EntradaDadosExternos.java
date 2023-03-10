@@ -22,4 +22,4 @@ public class EntradaDadosExternos {
 		entrada.close();
 		arqIn.close();
 	}
-}
+} 

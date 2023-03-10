@@ -20,4 +20,4 @@ public class EstruturaWhileAdicao {
 		System.out.println("Resultado = " + soma);
 		teclado.close();
 	}
-}
+} 
