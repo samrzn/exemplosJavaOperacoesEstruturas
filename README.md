@@ -5,7 +5,7 @@
 
 #### Aplicação console de operadores e estruturas em Java:
 
-###### Aplicação de console para exemplos de utilização dos operadores e estruturas em Java e exercitar os conhecimentos apresentados durante o módulo 3 “Java Fundamentos” no bootcamp Recode Pro 2022;
+###### Aplicação de console para exemplos de utilização dos operadores e estruturas em Java e exercitar os conhecimentos apresentados durante o módulo 3 “Desenvolvimentos de Sistema, nível 1” no bootcamp Recode Pro 2022;
 
 ### Execução da Aplicação
 
