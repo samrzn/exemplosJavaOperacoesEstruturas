@@ -1,11 +1,11 @@
-# dev.Point_Tech (HTML)
+# Operadores e Estruturas em Java
 
 ## Informações do projeto
 
 
-#### Páginas em HTML para front-end e-commerce de informática:
+#### Aplicação console de operadores e estruturas em Java:
 
-###### Front-end simples construído em HTML para e-commerce de informática com objetivo de exercitar os conhecimentos apresentados durante o módulo 2 “Introdução ao Mundo da Computação e Fundamentos de Front-End” no bootcamp Recode Pro 2022;
+###### Aplicação de console para exemplos de utilização dos operadores e estruturas em Java e exercitar os conhecimentos apresentados durante o módulo 3 “Java Fundamentos” no bootcamp Recode Pro 2022;
 
 ### Execução da Aplicação
 
@@ -15,8 +15,12 @@
 	<th>Versão</th>
 </tr>
 <tr>
-	<td>HTML</td>
-	<td>5.+</td>
+	<td>JDK</td>
+	<td>17.+</td>
+</tr>
+<tr>
+	<td>Eclipse</td>
+	<td>4.**</td>
 </tr>
 </table>
 
@@ -26,6 +30,7 @@
 
 <div style="display: inline_block"><br>  
 <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
+<img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
+
 
 </div>  
